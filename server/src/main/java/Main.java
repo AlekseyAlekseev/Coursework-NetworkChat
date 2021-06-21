@@ -1,4 +1,3 @@
-package ru.netology.server;
 
 import java.io.IOException;
 import java.util.Scanner;

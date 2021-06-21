@@ -1,5 +1,5 @@
-ru/netology/server/Server.java
- ru.netology.server.Server
- ru.netology.server.Server$Connection
-ru/netology/server/Main.java
- ru.netology.server.Main
+Main.java
+ Main
+Server.java
+ Server
+ Server$Connection

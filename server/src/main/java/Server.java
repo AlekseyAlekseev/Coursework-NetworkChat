@@ -1,5 +1,3 @@
-package ru.netology.server;
-
 
 import java.io.*;
 import java.net.ServerSocket;
@@ -8,8 +6,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Properties;
-import org.apache.log4j.Logger;
 
+import org.apache.log4j.Logger;
 
 
 /**
