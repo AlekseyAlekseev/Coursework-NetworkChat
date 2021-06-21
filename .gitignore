@@ -27,6 +27,8 @@ buildNumber.properties
 /.idea
 /.gradle
 /build
+/server/build
+/client/build
 
 # Generated files
 .idea/**/contentModel.xml
